@@ -1,9 +1,10 @@
 # wordle
 A wordle clone made in python
 
-DEMO
+# DEMO
 
 
 
-<img src="https://github.com/somecodebysam/wordle/blob/main/wordle_demo.gif" alt="demo" width="600"/>
-![](https://github.com/somecodebysam/wordle/blob/main/wordle_demo.gif)
+
+https://github.com/user-attachments/assets/42760690-925d-46ed-913c-cfdfab0d7543
+
